@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: fc4490198abce844e85ec90791bbe337
+timeCreated: 1605783560
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: elin_hair_b_01
+    100002: //RootNode
+    100004: elin_hair_b_01_mesh
+    100006: hair_ahoge_0.000
+    100008: hair_ahoge_0.001
+    100010: hair_ahoge_0.002
+    100012: hair_ahoge_0.003
+    100014: hair_ahoge_0.003_end
+    100016: hair_ahoge_1.004
+    100018: hair_ahoge_1.005
+    100020: hair_ahoge_1.006
+    100022: hair_ahoge_1.006_end
+    100024: hair_b_0_L.000
+    100026: hair_b_0_L.001
+    100028: hair_b_0_L.002
+    100030: hair_b_0_L.002_end
+    100032: hair_b_0_R.000
+    100034: hair_b_0_R.001
+    100036: hair_b_0_R.002
+    100038: hair_b_0_R.002_end
+    100040: hair_b_2_L.000
+    100042: hair_b_2_L.001
+    100044: hair_b_2_L.002
+    100046: hair_b_2_L.002_end
+    100048: hair_b_2_R.000
+    100050: hair_b_2_R.001
+    100052: hair_b_2_R.002
+    100054: hair_b_2_R.002_end
+    100056: hair_b_3_L.000
+    100058: hair_b_3_L.001
+    100060: hair_b_3_L.002
+    100062: hair_b_3_L.002_end
+    100064: hair_b_3_R.000
+    100066: hair_b_3_R.001
+    100068: hair_b_3_R.002
+    100070: hair_b_3_R.002_end
+    100072: hair_b_root
+    400000: elin_hair_b_01
+    400002: elin_hair_b_01_mesh
+    400004: //RootNode
+    400006: hair_ahoge_0.000
+    400008: hair_ahoge_0.001
+    400010: hair_ahoge_0.002
+    400012: hair_ahoge_0.003
+    400014: hair_ahoge_0.003_end
+    400016: hair_ahoge_1.004
+    400018: hair_ahoge_1.005
+    400020: hair_ahoge_1.006
+    400022: hair_ahoge_1.006_end
+    400024: hair_b_0_L.000
+    400026: hair_b_0_L.001
+    400028: hair_b_0_L.002
+    400030: hair_b_0_L.002_end
+    400032: hair_b_0_R.000
+    400034: hair_b_0_R.001
+    400036: hair_b_0_R.002
+    400038: hair_b_0_R.002_end
+    400040: hair_b_2_L.000
+    400042: hair_b_2_L.001
+    400044: hair_b_2_L.002
+    400046: hair_b_2_L.002_end
+    400048: hair_b_2_R.000
+    400050: hair_b_2_R.001
+    400052: hair_b_2_R.002
+    400054: hair_b_2_R.002_end
+    400056: hair_b_3_L.000
+    400058: hair_b_3_L.001
+    400060: hair_b_3_L.002
+    400062: hair_b_3_L.002_end
+    400064: hair_b_3_R.000
+    400066: hair_b_3_R.001
+    400068: hair_b_3_R.002
+    400070: hair_b_3_R.002_end
+    400072: hair_b_root
+    4300000: elin_hair_b_01_mesh
+    9500000: //RootNode
+    13700000: elin_hair_b_01_mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: chara/eitch/elin_stuff.unity3d
+  assetBundleVariant: 

@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 44050ab290a0a3c44815ead5581395b5
+timeCreated: 1605328604
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: elin_hair_f_04
+    100002: //RootNode
+    100004: elin_hair_f_04_mesh
+    100006: hair_F_3_L.000
+    100008: hair_F_3_L.001
+    100010: hair_F_3_L.002
+    100012: hair_F_3_L.002_end
+    100014: hair_F_3_R.000
+    100016: hair_F_3_R.001
+    100018: hair_F_3_R.002
+    100020: hair_F_3_R.002_end
+    100022: root
+    100024: Camera
+    100026: elin_hair_b_04
+    100028: elin_hair_b_04_mesh
+    100030: hair_B_0_L.000
+    100032: hair_B_0_L.001
+    100034: hair_B_0_L.002
+    100036: hair_B_0_L.002_end
+    100038: hair_B_0_R.000
+    100040: hair_B_0_R.001
+    100042: hair_B_0_R.002
+    100044: hair_B_0_R.002_end
+    100046: hair_B_1_L.000
+    100048: hair_B_1_L.001
+    100050: hair_B_1_L.002
+    100052: hair_B_1_L.002_end
+    100054: hair_B_1_R.000
+    100056: hair_B_1_R.001
+    100058: hair_B_1_R.002
+    100060: hair_B_1_R.002_end
+    100062: hair_B_2_L.000
+    100064: hair_B_2_L.001
+    100066: hair_B_2_L.002
+    100068: hair_B_2_L.002_end
+    100070: hair_B_2_R.000
+    100072: hair_B_2_R.001
+    100074: hair_B_2_R.002
+    100076: hair_B_2_R.002_end
+    100078: hair_B_3.000
+    100080: hair_B_3.001
+    100082: hair_B_3.002
+    100084: hair_B_3.002_end
+    100086: hair_b_root
+    100088: hair_F_0_L.000
+    100090: hair_F_0_L.001
+    100092: hair_F_0_L.002
+    100094: hair_F_0_L.002_end
+    100096: hair_F_0_R.000
+    100098: hair_F_0_R.001
+    100100: hair_F_0_R.002
+    100102: hair_F_0_R.002_end
+    100104: hair_F_1_L.000
+    100106: hair_F_1_L.001
+    100108: hair_F_1_L.002
+    100110: hair_F_1_L.002_end
+    100112: hair_F_1_R.000
+    100114: hair_F_1_R.001
+    100116: hair_F_1_R.002
+    100118: hair_F_1_R.002_end
+    100120: hair_F_2_L.000
+    100122: hair_F_2_L.001
+    100124: hair_F_2_L.002
+    100126: hair_F_2_L.002_end
+    100128: hair_F_2_R.000
+    100130: hair_F_2_R.001
+    100132: hair_F_2_R.002
+    100134: hair_F_2_R.002_end
+    100136: hair_f_root
+    400000: elin_hair_f_04
+    400002: //RootNode
+    400004: elin_hair_f_04_mesh
+    400006: hair_F_3_L.000
+    400008: hair_F_3_L.001
+    400010: hair_F_3_L.002
+    400012: hair_F_3_L.002_end
+    400014: hair_F_3_R.000
+    400016: hair_F_3_R.001
+    400018: hair_F_3_R.002
+    400020: hair_F_3_R.002_end
+    400022: root
+    400024: Camera
+    400026: elin_hair_b_04
+    400028: elin_hair_b_04_mesh
+    400030: hair_B_0_L.000
+    400032: hair_B_0_L.001
+    400034: hair_B_0_L.002
+    400036: hair_B_0_L.002_end
+    400038: hair_B_0_R.000
+    400040: hair_B_0_R.001
+    400042: hair_B_0_R.002
+    400044: hair_B_0_R.002_end
+    400046: hair_B_1_L.000
+    400048: hair_B_1_L.001
+    400050: hair_B_1_L.002
+    400052: hair_B_1_L.002_end
+    400054: hair_B_1_R.000
+    400056: hair_B_1_R.001
+    400058: hair_B_1_R.002
+    400060: hair_B_1_R.002_end
+    400062: hair_B_2_L.000
+    400064: hair_B_2_L.001
+    400066: hair_B_2_L.002
+    400068: hair_B_2_L.002_end
+    400070: hair_B_2_R.000
+    400072: hair_B_2_R.001
+    400074: hair_B_2_R.002
+    400076: hair_B_2_R.002_end
+    400078: hair_B_3.000
+    400080: hair_B_3.001
+    400082: hair_B_3.002
+    400084: hair_B_3.002_end
+    400086: hair_b_root
+    400088: hair_F_0_L.000
+    400090: hair_F_0_L.001
+    400092: hair_F_0_L.002
+    400094: hair_F_0_L.002_end
+    400096: hair_F_0_R.000
+    400098: hair_F_0_R.001
+    400100: hair_F_0_R.002
+    400102: hair_F_0_R.002_end
+    400104: hair_F_1_L.000
+    400106: hair_F_1_L.001
+    400108: hair_F_1_L.002
+    400110: hair_F_1_L.002_end
+    400112: hair_F_1_R.000
+    400114: hair_F_1_R.001
+    400116: hair_F_1_R.002
+    400118: hair_F_1_R.002_end
+    400120: hair_F_2_L.000
+    400122: hair_F_2_L.001
+    400124: hair_F_2_L.002
+    400126: hair_F_2_L.002_end
+    400128: hair_F_2_R.000
+    400130: hair_F_2_R.001
+    400132: hair_F_2_R.002
+    400134: hair_F_2_R.002_end
+    400136: hair_f_root
+    4300000: elin_hair_f_04_mesh
+    4300002: elin_hair_b_04_mesh
+    9500000: //RootNode
+    13700000: elin_hair_f_04_mesh
+    13700002: elin_hair_b_04_mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: chara/eitch/elin_stuff.unity3d
+  assetBundleVariant: 

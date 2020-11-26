@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest schema-ver="1">
+  <guid>Eitch.ElinStuff</guid>
+  <name>Elin Stuff</name>
+  <version>1.0.0</version>
+  <author>Eitch</author>
+  <description>Elin stuff.</description>
+  <website>https://www.patreon.com/eitchmod</website>
+  <game>Koikatsu</game>
+</manifest>

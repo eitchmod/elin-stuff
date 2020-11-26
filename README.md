@@ -1,5 +1,5 @@
-# Eitch Koikatsu Mod Template
-Empty mod template.
+# Elin Stuff
+Elin accessories for Koikatsu.
 
 ## Requirements
 \- none -

@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 8bc16f0f51746c649b49422c863aabc6
+timeCreated: 1605441696
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ahoge.000
+    100002: ahoge.001
+    100004: ahoge.002
+    100006: ahoge.002_end
+    100008: bang_0_L.000
+    100010: bang_0_L.001
+    100012: bang_0_L.001_end
+    100014: bang_0_R.000
+    100016: bang_0_R.001
+    100018: bang_0_R.001_end
+    100020: bang_1.000
+    100022: bang_1.001
+    100024: bang_1.001_end
+    100026: Camera
+    100028: ear_0_L.000
+    100030: ear_0_L.001
+    100032: ear_0_L.002
+    100034: ear_0_L.002_end
+    100036: ear_0_R.000
+    100038: ear_0_R.001
+    100040: ear_0_R.002
+    100042: ear_0_R.002_end
+    100044: elin_ears_00
+    100046: //RootNode
+    100048: elin_ears_00_mesh
+    100050: elin_ears_root
+    100052: elin_hair_b_00
+    100054: elin_hair_b_00_mesh
+    100056: elin_hair_f_00
+    100058: elin_hair_f_00_mesh
+    100060: hair_0.000
+    100062: hair_0.001
+    100064: hair_0.001_end
+    100066: hair_1.000
+    100068: hair_1.001
+    100070: hair_1.001_end
+    100072: hair_2.000
+    100074: hair_2.001
+    100076: hair_2.002
+    100078: hair_2.002_end
+    100080: hair_3.000
+    100082: hair_3.001
+    100084: hair_3.002
+    100086: hair_3.002_end
+    100088: hair_4.000
+    100090: hair_4.001
+    100092: hair_4.002
+    100094: hair_4.002_end
+    100096: hair_5.000
+    100098: hair_5.001
+    100100: hair_5.001_end
+    100102: hair_6.000
+    100104: hair_6.001
+    100106: hair_6.001_end
+    100108: hair_b_root
+    100110: hair_f_root
+    400000: ahoge.000
+    400002: ahoge.001
+    400004: ahoge.002
+    400006: ahoge.002_end
+    400008: bang_0_L.000
+    400010: bang_0_L.001
+    400012: bang_0_L.001_end
+    400014: bang_0_R.000
+    400016: bang_0_R.001
+    400018: bang_0_R.001_end
+    400020: bang_1.000
+    400022: bang_1.001
+    400024: bang_1.001_end
+    400026: Camera
+    400028: ear_0_L.000
+    400030: ear_0_L.001
+    400032: ear_0_L.002
+    400034: ear_0_L.002_end
+    400036: ear_0_R.000
+    400038: ear_0_R.001
+    400040: ear_0_R.002
+    400042: ear_0_R.002_end
+    400044: elin_ears_00
+    400046: //RootNode
+    400048: elin_ears_00_mesh
+    400050: elin_ears_root
+    400052: elin_hair_b_00
+    400054: elin_hair_b_00_mesh
+    400056: elin_hair_f_00
+    400058: elin_hair_f_00_mesh
+    400060: hair_0.000
+    400062: hair_0.001
+    400064: hair_0.001_end
+    400066: hair_1.000
+    400068: hair_1.001
+    400070: hair_1.001_end
+    400072: hair_2.000
+    400074: hair_2.001
+    400076: hair_2.002
+    400078: hair_2.002_end
+    400080: hair_3.000
+    400082: hair_3.001
+    400084: hair_3.002
+    400086: hair_3.002_end
+    400088: hair_4.000
+    400090: hair_4.001
+    400092: hair_4.002
+    400094: hair_4.002_end
+    400096: hair_5.000
+    400098: hair_5.001
+    400100: hair_5.001_end
+    400102: hair_6.000
+    400104: hair_6.001
+    400106: hair_6.001_end
+    400108: hair_b_root
+    400110: hair_f_root
+    4300000: elin_hair_b_00_mesh
+    4300002: elin_hair_f_00_mesh
+    4300004: elin_ears_00_mesh
+    9500000: //RootNode
+    13700000: elin_ears_00_mesh
+    13700002: elin_hair_b_00_mesh
+    13700004: elin_hair_f_00_mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: chara/eitch/elin_stuff.unity3d
+  assetBundleVariant: 
