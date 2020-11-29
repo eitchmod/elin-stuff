@@ -5,4 +5,5 @@ ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
 0,1,1,Elin Tail 00,,chara/eitch/elin_stuff.unity3d,elin_tail_00_prefab,a_n_waist_b,chara/eitch/thumb/elin_stuff.unity3d,elin_tail_00_thumb
 1,1,1,Elin Tail 01,,chara/eitch/elin_stuff.unity3d,elin_tail_01_prefab,a_n_waist_b,chara/eitch/thumb/elin_stuff.unity3d,elin_tail_01_thumb
 2,1,1,Elin Tail 02,,chara/eitch/elin_stuff.unity3d,elin_tail_02_prefab,a_n_waist_b,chara/eitch/thumb/elin_stuff.unity3d,elin_tail_02_thumb
+3,1,1,Elin Tail 03,,chara/eitch/elin_stuff.unity3d,elin_tail_03_prefab,a_n_waist_b,chara/eitch/thumb/elin_stuff.unity3d,elin_tail_03_thumb
 4,1,1,Elin Tail 04,,chara/eitch/elin_stuff.unity3d,elin_tail_04_prefab,a_n_waist_b,chara/eitch/thumb/elin_stuff.unity3d,elin_tail_04_thumb
